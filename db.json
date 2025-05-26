@@ -1,0 +1,929 @@
+{
+  "1st": [
+    {
+      "id": "ca01",
+      "name": "Kho",
+      "x": 148,
+      "y": 301
+    },
+    {
+      "id": "99eb",
+      "name": "P. Dập",
+      "x": 206,
+      "y": 377
+    },
+    {
+      "id": "ed26",
+      "name": "SMT",
+      "x": 511,
+      "y": 755
+    },
+    {
+      "id": "ad98",
+      "name": "Mạ Đồng",
+      "x": 769,
+      "y": 464
+    },
+    {
+      "id": "9a48",
+      "name": "P. Điện",
+      "x": 407,
+      "y": 634
+    },
+    {
+      "id": "93ff",
+      "name": "Metal Mask",
+      "x": 308,
+      "y": 636
+    },
+    {
+      "id": "26eb",
+      "name": "Kho NVL",
+      "x": 198,
+      "y": 666
+    },
+    {
+      "id": "84eb",
+      "name": "NVS",
+      "x": 878,
+      "y": 649
+    },
+    {
+      "id": "11ad",
+      "name": "P.Giám Sát",
+      "x": 862,
+      "y": 701
+    },
+    {
+      "id": "c808",
+      "name": "IT",
+      "x": 872,
+      "y": 745
+    },
+    {
+      "id": "675d",
+      "name": "Y tế",
+      "x": 829,
+      "y": 744
+    },
+    {
+      "id": "4a57",
+      "name": "P. Tài liệu",
+      "x": 858,
+      "y": 778
+    },
+    {
+      "id": "f2a6",
+      "name": "ME",
+      "x": 840,
+      "y": 831
+    },
+    {
+      "id": "d9bc",
+      "name": "Văn Phòng",
+      "x": 1016,
+      "y": 714
+    },
+    {
+      "id": "9d6d",
+      "name": "Wetline",
+      "x": 1207,
+      "y": 390
+    },
+    {
+      "id": "5193",
+      "name": "Lộ Quang",
+      "x": 1009,
+      "y": 394
+    },
+    {
+      "id": "804a",
+      "name": "NVS",
+      "x": 1751,
+      "y": 498
+    },
+    {
+      "id": "8676",
+      "name": "Spare Part",
+      "x": 1753,
+      "y": 401
+    },
+    {
+      "id": "862c",
+      "name": "Kho Hotpress",
+      "x": 1657,
+      "y": 380
+    },
+    {
+      "id": "57d9",
+      "name": "Hotpress",
+      "x": 1571,
+      "y": 463
+    },
+    {
+      "id": "6571",
+      "name": "Guide",
+      "x": 1659,
+      "y": 508
+    },
+    {
+      "id": "1543",
+      "name": "Automation",
+      "x": 1676,
+      "y": 725
+    },
+    {
+      "id": "12dc",
+      "name": "AOI",
+      "x": 1410,
+      "y": 490
+    },
+    {
+      "id": "c0cf",
+      "name": "VP. Wetline",
+      "x": 1369,
+      "y": 400
+    },
+    {
+      "id": "9b03",
+      "name": "PT hóa chất",
+      "x": 1220,
+      "y": 567
+    },
+    {
+      "id": "da0a",
+      "name": "Filter",
+      "x": 1127,
+      "y": 572
+    },
+    {
+      "id": "837e",
+      "name": "Kỹ thuật công đoạn",
+      "x": 1054,
+      "y": 537
+    },
+    {
+      "id": "cba8",
+      "name": "Kho",
+      "x": 961,
+      "y": 571
+    },
+    {
+      "id": "fd49",
+      "name": "CNC",
+      "x": 525,
+      "y": 475
+    },
+    {
+      "id": "4890",
+      "name": "Air compressor",
+      "x": 782,
+      "y": 309
+    },
+    {
+      "id": "f344",
+      "name": "DI",
+      "x": 540,
+      "y": 308
+    },
+    {
+      "id": "2d85",
+      "name": "Kế toán",
+      "x": 1091,
+      "y": 851
+    },
+    {
+      "id": "e089",
+      "name": "Bảo vệ A2",
+      "x": 1879,
+      "y": 77
+    },
+    {
+      "id": "6c0d",
+      "name": "Bảo vệ A3",
+      "x": 170,
+      "y": 75
+    },
+    {
+      "id": "e8c2",
+      "name": "Bảo vệ A1",
+      "x": 913,
+      "y": 1012
+    },
+    {
+      "id": "0223",
+      "name": "Kho",
+      "x": 646,
+      "y": 1017
+    },
+    {
+      "id": "8f60",
+      "name": "P. Hút thuốc",
+      "x": 764,
+      "y": 1012
+    },
+    {
+      "id": "c921",
+      "name": "P. Trực",
+      "x": 991,
+      "y": 267
+    },
+    {
+      "id": "cd4c",
+      "name": "Kho Điện",
+      "x": 1080,
+      "y": 268
+    },
+    {
+      "id": "d06c",
+      "name": "P. Điện",
+      "x": 1058,
+      "y": 207
+    },
+    {
+      "id": "db68",
+      "name": "P. Chiller",
+      "x": 1168,
+      "y": 209
+    },
+    {
+      "id": "cccf",
+      "name": "P. Nước",
+      "x": 1406,
+      "y": 202
+    },
+    {
+      "id": "1b85",
+      "name": "Xử lý nước",
+      "x": 1692,
+      "y": 201
+    },
+    {
+      "id": "e94c",
+      "name": "P. Kho",
+      "x": 1768,
+      "y": 146
+    },
+    {
+      "id": "717f",
+      "name": "Nhà rác",
+      "x": 1777,
+      "y": 204
+    },
+    {
+      "id": "edd7",
+      "name": "P. Bơm",
+      "x": 1772,
+      "y": 261
+    },
+    {
+      "id": "47e9",
+      "name": "P. Bơm cứu hỏa",
+      "x": 697,
+      "y": 144
+    },
+    {
+      "id": "8f95",
+      "name": "Film",
+      "x": 1722,
+      "y": 315
+    },
+    {
+      "id": "1692",
+      "name": "NVS",
+      "x": 174,
+      "y": 534
+    },
+    {
+      "id": "3832",
+      "name": "QLSX",
+      "x": 159,
+      "y": 588
+    },
+    {
+      "id": "59c9",
+      "name": "Kiểm tra chính xác",
+      "x": 327,
+      "y": 569
+    },
+    {
+      "id": "7dcb",
+      "name": "Thay đồ nữ",
+      "x": 268,
+      "y": 484
+    },
+    {
+      "id": "c751",
+      "name": "Thay đồ nam",
+      "x": 301,
+      "y": 444
+    },
+    {
+      "id": "a26d",
+      "name": "Kho hóa chất",
+      "x": 808,
+      "y": 143
+    },
+    {
+      "id": "c753",
+      "name": "ssss"
+    },
+    {
+      "id": "a3a8",
+      "name": "Nhà xe",
+      "x": 397,
+      "y": 147
+    },
+    {
+      "id": "6aa0",
+      "name": "P.DI",
+      "x": 648,
+      "y": 190
+    },
+    {
+      "id": "df98",
+      "name": "KT chất lượng",
+      "x": 186,
+      "y": 746
+    },
+    {
+      "id": "1cf9",
+      "name": "P. Xuất hàng",
+      "x": 175,
+      "y": 812
+    },
+    {
+      "id": "adbc",
+      "name": "Kho Lạnh",
+      "x": 393,
+      "y": 308
+    },
+    {
+      "id": "5f7b",
+      "name": "Kho NVL",
+      "x": 330,
+      "y": 357
+    },
+    {
+      "id": "933a",
+      "name": "P.Họp",
+      "x": 957,
+      "y": 728
+    },
+    {
+      "id": "fafa",
+      "name": "Phó GĐ",
+      "x": 956,
+      "y": 770
+    },
+    {
+      "id": "68fa",
+      "name": "P.Họp",
+      "x": 956,
+      "y": 808
+    },
+    {
+      "id": "9b43",
+      "name": "P.Sấy",
+      "x": 1062,
+      "y": 775
+    },
+    {
+      "id": "7c4d",
+      "name": "TGĐ",
+      "x": 1015,
+      "y": 855
+    },
+    {
+      "id": "9ac9",
+      "name": "Chủ Tịch",
+      "x": 973,
+      "y": 857
+    },
+    {
+      "id": "bcdd",
+      "name": "P.Ktra",
+      "x": 1083,
+      "y": 653
+    },
+    {
+      "id": "cb80",
+      "name": "P. Khuôn",
+      "x": 1107,
+      "y": 671
+    },
+    {
+      "id": "47e5",
+      "name": "Văn Phòng",
+      "x": 1116,
+      "y": 624
+    },
+    {
+      "id": "ee0c",
+      "name": "P.In",
+      "x": 1102,
+      "y": 736
+    },
+    {
+      "id": "7f3e",
+      "name": "Final Room",
+      "x": 1181,
+      "y": 730
+    },
+    {
+      "id": "7bb8",
+      "name": "PSR",
+      "x": 1260,
+      "y": 676
+    },
+    {
+      "id": "8d94",
+      "name": "Khuôn",
+      "x": 1311,
+      "y": 633
+    },
+    {
+      "id": "c113",
+      "name": "P.In",
+      "x": 1255,
+      "y": 792
+    },
+    {
+      "id": "10b4",
+      "name": "P.Lộ Quang",
+      "x": 1324,
+      "y": 786
+    },
+    {
+      "id": "a3e3",
+      "name": "P.Sấy",
+      "x": 1243,
+      "y": 864
+    },
+    {
+      "id": "70b2",
+      "name": "Kho",
+      "x": 1292,
+      "y": 867
+    },
+    {
+      "id": "1c2d",
+      "name": "Plasma",
+      "x": 1366,
+      "y": 682
+    },
+    {
+      "id": "0a0f",
+      "name": "P. Mạ Vàng",
+      "x": 1412,
+      "y": 756
+    },
+    {
+      "id": "3f2b",
+      "name": "Laser",
+      "x": 1502,
+      "y": 772
+    },
+    {
+      "id": "6712",
+      "name": "Kho kiểm hàng",
+      "x": 1466,
+      "y": 688
+    },
+    {
+      "id": "a160",
+      "name": "Coverlay",
+      "x": 1578,
+      "y": 723
+    },
+    {
+      "id": "da5e",
+      "name": "WaveSolder",
+      "x": 1754,
+      "y": 742
+    },
+    {
+      "id": "d6b2",
+      "name": "P.Để đồ",
+      "x": 1756,
+      "y": 584
+    }
+  ],
+  "2nd": [
+    {
+      "id": "0046",
+      "name": "Hành Lang"
+    },
+    {
+      "id": "3fa5",
+      "name": "2nd"
+    },
+    {
+      "id": "206b",
+      "name": "Mái Trạm Điện",
+      "x": 1152,
+      "y": 197
+    },
+    {
+      "id": "1d65",
+      "name": "Mái Nước Thải",
+      "x": 1528,
+      "y": 198
+    },
+    {
+      "id": "7827",
+      "name": "Mái Nhà rác",
+      "x": 1778,
+      "y": 210
+    },
+    {
+      "id": "6e29",
+      "name": "Mái Nhà xe",
+      "x": 428,
+      "y": 151
+    },
+    {
+      "id": "20bb",
+      "name": "Mái Nhà xưởng",
+      "x": 953,
+      "y": 458
+    },
+    {
+      "id": "f113",
+      "name": "Mái Nhà xưởng",
+      "x": 956,
+      "y": 760
+    },
+    {
+      "id": "b6af",
+      "name": "Hành Lang Tầng Mái",
+      "x": 964,
+      "y": 614
+    },
+    {
+      "id": "d802",
+      "name": "Hành lang tầng mái",
+      "x": 830,
+      "y": 316
+    }
+  ],
+  "1stCamera": [
+    {
+      "id": "2092",
+      "name": "Cửa Trạm Điện",
+      "x": 810,
+      "y": 212,
+      "link": "http://10.100.203.28:8083/stream/player/camera34"
+    },
+    {
+      "id": "d88c",
+      "name": "Máy Nén Khí 10,11",
+      "x": 519,
+      "y": 108,
+      "link": "http://10.100.203.28:8083/stream/player/camera35"
+    },
+    {
+      "id": "3862",
+      "name": "Máy Nén Khí",
+      "x": 653,
+      "y": 307,
+      "link": "http://10.100.203.28:8083/stream/player/camera43"
+    },
+    {
+      "id": "9f64",
+      "name": "Máy Nén Khí 1,2",
+      "x": 797,
+      "y": 300,
+      "link": "http://10.100.203.28:8083/stream/player/camera41"
+    },
+    {
+      "id": "8f5e",
+      "name": "MDB 1->4",
+      "x": 1026,
+      "y": 230,
+      "link": "http://10.100.203.28:8083/stream/player/camera36"
+    },
+    {
+      "id": "735b",
+      "name": "Tủ DK Máy Phát",
+      "x": 1000,
+      "y": 225,
+      "link": "http://10.100.203.28:8083/stream/player/camera39"
+    },
+    {
+      "id": "1339",
+      "name": "Dụng Cụ",
+      "x": 1058,
+      "y": 268,
+      "link": "http://10.100.203.28:8083/stream/player/camera44"
+    },
+    {
+      "id": "89b6",
+      "name": "Kho",
+      "x": 1119,
+      "y": 275,
+      "link": "http://10.100.203.28:8083/stream/player/camera45"
+    },
+    {
+      "id": "827c",
+      "name": "MDB 4->1",
+      "x": 1136,
+      "y": 215,
+      "link": "http://10.100.203.28:8083/stream/player/camera37"
+    },
+    {
+      "id": "b9b9",
+      "name": "Tank Dầu",
+      "x": 998,
+      "y": 127,
+      "link": "http://10.100.203.28:8083/stream/player/camera33"
+    },
+    {
+      "id": "a2d4",
+      "name": "Máy Phát 1,2",
+      "x": 1042,
+      "y": 119,
+      "link": "http://10.100.203.28:8083/stream/player/camera42"
+    },
+    {
+      "id": "e17d",
+      "name": "Chiller Room",
+      "x": 1182,
+      "y": 124,
+      "link": "http://10.100.203.28:8083/stream/player/camera40"
+    },
+    {
+      "id": "eb42",
+      "name": "Pump Chiller",
+      "x": 1172,
+      "y": 280,
+      "link": "http://10.100.203.28:8083/stream/player/camera46"
+    },
+    {
+      "id": "7aff",
+      "name": "Máy Biến Áp",
+      "x": 1136,
+      "y": 168,
+      "link": "http://10.100.203.28:8083/stream/player/camera29"
+    },
+    {
+      "id": "ea27",
+      "name": "Máy Biến Áp 4",
+      "x": 1123,
+      "y": 152,
+      "link": "http://10.100.203.28:8083/stream/player/camera31"
+    },
+    {
+      "id": "3f3a",
+      "name": "Máy Biến Áp",
+      "x": 1052,
+      "y": 175,
+      "link": "http://10.100.203.28:8083/stream/player/camera32"
+    },
+    {
+      "id": "e7f0",
+      "name": "Tủ Cao Áp",
+      "x": 1141,
+      "y": 117,
+      "link": "http://10.100.203.28:8083/stream/player/camera25"
+    },
+    {
+      "id": "dc68",
+      "name": "T- PLUG",
+      "x": 1110,
+      "y": 119,
+      "link": "http://10.100.203.28:8083/stream/player/camera38"
+    },
+    {
+      "id": "28d6",
+      "name": "Trần HOT, GUIDE",
+      "x": 1786,
+      "y": 344,
+      "link": "http://10.100.203.28:8083/stream/player/camera26"
+    },
+    {
+      "id": "5ddc",
+      "name": "Cửa trần WetLine",
+      "x": 1277,
+      "y": 345,
+      "link": "http://10.100.203.28:8083/stream/player/camera28"
+    },
+    {
+      "id": "9cd1",
+      "name": "DK Máy Phát 1",
+      "x": 1082,
+      "y": 122,
+      "link": "http://10.100.203.28:8083/stream/player/camera30"
+    },
+    {
+      "id": "e6f1",
+      "name": "Trần Lộ Quang, WetLine",
+      "x": 942,
+      "y": 422,
+      "link": "http://10.100.203.28:8083/stream/player/camera27"
+    },
+    {
+      "id": "3696",
+      "name": "Trần CNC, DI",
+      "x": 604,
+      "y": 438,
+      "link": "http://10.100.203.28:8083/stream/player/camera21"
+    },
+    {
+      "id": "8725",
+      "name": "Trần CNC, BBT",
+      "x": 294,
+      "y": 372,
+      "link": "http://10.100.203.28:8083/stream/player/camera23"
+    },
+    {
+      "id": "5ecc",
+      "name": "AVR Gold Plating",
+      "x": 1371,
+      "y": 632,
+      "link": "http://10.100.203.28:8083/stream/player/camera24"
+    },
+    {
+      "id": "feb5",
+      "name": "Sub-Electric",
+      "x": 344,
+      "y": 633,
+      "link": "http://10.100.203.28:8083/stream/player/camera22"
+    }
+  ],
+  "2ndCamera": [
+    {
+      "id": "bac3",
+      "name": "Chiller 2,3",
+      "x": 123,
+      "y": 294,
+      "link": "http://10.100.203.28:8083/stream/player/camera8"
+    },
+    {
+      "id": "3a9a",
+      "name": "Pump Chiller 1,2,3",
+      "x": 293,
+      "y": 333,
+      "link": "http://10.100.203.28:8083/stream/player/camera10"
+    },
+    {
+      "id": "c1a2",
+      "name": "Máy Sấy Khí 7,8",
+      "x": 323,
+      "y": 329,
+      "link": "http://10.100.203.28:8083/stream/player/camera9"
+    },
+    {
+      "id": "8944",
+      "name": "Máy Nén Khí 7,8",
+      "x": 417,
+      "y": 330,
+      "link": "http://10.100.203.28:8083/stream/player/camera11"
+    },
+    {
+      "id": "f455",
+      "name": "Tầng Mái AHU 1,2,3,10",
+      "x": 553,
+      "y": 330,
+      "link": "http://10.100.203.28:8083/stream/player/camera12"
+    },
+    {
+      "id": "18e7",
+      "name": "AHU 6",
+      "x": 620,
+      "y": 302,
+      "link": "http://10.100.203.28:8083/stream/player/camera14"
+    },
+    {
+      "id": "b320",
+      "name": "Cầu Thang Electric",
+      "x": 982,
+      "y": 309,
+      "link": "http://10.100.203.28:8083/stream/player/camera13"
+    },
+    {
+      "id": "b04b",
+      "name": "AHU 7,8",
+      "x": 1081,
+      "y": 310,
+      "link": "http://10.100.203.28:8083/stream/player/camera15"
+    },
+    {
+      "id": "0d8d",
+      "name": "Chiller 4",
+      "x": 1110,
+      "y": 306,
+      "link": "http://10.100.203.28:8083/stream/player/camera16"
+    },
+    {
+      "id": "145b",
+      "name": "Tầng Mái Cresyn",
+      "x": 1177,
+      "y": 334,
+      "link": "http://10.100.203.28:8083/stream/player/camera18"
+    },
+    {
+      "id": "d8a2",
+      "name": "Chiller 5, AHU 9",
+      "x": 1222,
+      "y": 301,
+      "link": "http://10.100.203.28:8083/stream/player/camera17"
+    },
+    {
+      "id": "77e8",
+      "name": "Chiller 6,7",
+      "x": 1547,
+      "y": 301,
+      "link": "http://10.100.203.28:8083/stream/player/camera1"
+    },
+    {
+      "id": "364b",
+      "name": "CDU (AHU9, Chiller4)",
+      "x": 1522,
+      "y": 299,
+      "link": "http://10.100.203.28:8083/stream/player/camera19"
+    },
+    {
+      "id": "8dca",
+      "name": "Cầu Thang Nhà Rác",
+      "x": 1777,
+      "y": 297,
+      "link": "http://10.100.203.28:8083/stream/player/camera20"
+    },
+    {
+      "id": "b97a",
+      "name": "Fan Hotpress, Automation",
+      "x": 1793,
+      "y": 614,
+      "link": "http://10.100.203.28:8083/stream/player/camera7"
+    },
+    {
+      "id": "0199",
+      "name": "AHU 5",
+      "x": 1369,
+      "y": 635,
+      "link": "http://10.100.203.28:8083/stream/player/camera5"
+    },
+    {
+      "id": "4ef6",
+      "name": "AHU 4",
+      "x": 1303,
+      "y": 605,
+      "link": "http://10.100.203.28:8083/stream/player/camera6"
+    },
+    {
+      "id": "87f7",
+      "name": "AHU 10",
+      "x": 1194,
+      "y": 606,
+      "link": "http://10.100.203.28:8083/stream/player/camera4"
+    },
+    {
+      "id": "cbe2",
+      "name": "Gầm AHU",
+      "x": 129,
+      "y": 613,
+      "link": "http://10.100.203.28:8083/stream/player/camera3"
+    },
+    {
+      "id": "7c17",
+      "name": "Hành Lang AHU",
+      "x": 176,
+      "y": 596,
+      "link": "http://10.100.203.28:8083/stream/player/camera2"
+    }
+  ],
+  "1stCabinet": [
+    {
+      "name": "Tủ điện IOT",
+      "x": 791,
+      "y": 332,
+      "cabinetCode": "MSV",
+      "voltage": "220/380V",
+      "current": "200A",
+      "protectionLevel": "1",
+      "manufacturing": "IOT Team",
+      "cabinetFunction": "Monitoring máy nén khí",
+      "id": 1
+    }
+  ],
+  "2ndCabinet": [],
+  "settings": [
+    {
+      "id": "1",
+      "editMode": false
+    }
+  ],
+  "settingsCamera": [
+    {
+      "id": "1",
+      "editMode": false
+    }
+  ],
+  "settingsCabinet": [
+    {
+      "id": "1",
+      "editMode": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dot-prop": "^6.0.1",
+    "inflection": "^1.13.1",
+    "json-server": "^0.17.3",
+    "lowdb": "^1.0.0",
+    "node-windows": "^0.1.14",
+    "sort-on": "^5.0.0",
+    "steno": "^2.0.0"
+  }
+}

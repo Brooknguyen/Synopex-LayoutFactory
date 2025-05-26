@@ -1,0 +1,115 @@
+@font-face {
+	font-family: myDigitalFont;
+	src: url(./font/digital-7\ \(mono\ italic\).ttf);
+}
+
+@keyframes animate {
+	0% {
+		stroke-dashoffset: 0;
+	}
+
+	100% {
+		stroke-dashoffset: -1000;
+	}
+}
+
+@keyframes reanimate {
+	0% {
+		stroke-dashoffset: -1000;
+	}
+
+	100% {
+		stroke-dashoffset: 0;
+	}
+}
+
+@keyframes fanRotate {
+	0% {
+		transform: rotate(0deg);
+	}
+
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes blinker {
+	50% {
+		opacity: 0;
+	}
+}
+
+
+@keyframes fadeIn {
+	0% {
+		fill-opacity: 1;
+		width: 0%;
+	}
+
+	100% {
+		fill-opacity: 1;
+		width: 100%;
+	}
+}
+
+@keyframes fadeInSvg {
+	0% {
+		stroke-dashoffset: 100%
+	}
+
+	100% {
+		stroke-dashoffset: 0%
+	}
+}
+
+.fadeInEffect {
+	width: 0;
+	height: 50px;
+	/* Chiều cao của phần tử */
+	background-color: #3498db;
+	animation: fadeIn 5s ease-in-out forwards infinite;
+}
+
+
+@keyframes arrowColorChange {
+	0% {
+		background-position: 0% 100%;
+	}
+
+	100% {
+		background-position: 100% 0%;
+	}
+}
+
+@keyframes waterfallAnimation {
+	0% {
+		transform: rotateZ(-0.5deg);
+		/* Không có sự thay đổi ban đầu */
+	}
+
+	50% {
+		transform:rotateZ(0.5deg);
+		/* Di chuyển hình ảnh lên trên và xoay một chút */
+	}
+
+	100% {
+		transform:rotateZ(-0.5deg);
+		/* Quay lại vị trí ban đầu */
+	}
+}
+
+image {
+	overflow: auto;
+}
+
+@keyframes waveAnimation {
+	0% {
+		transform: translateY(0);
+		/* Không có sự thay đổi ban đầu */
+	}
+
+	100% {
+		transform: translateY(10px);
+		/* Di chuyển hình ảnh lên trên 10px */
+	}
+}

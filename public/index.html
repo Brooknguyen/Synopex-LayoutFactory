@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <div class="dropdown">
+    <button class="dropbtn"><img src="./svgs/menu.png" alt="" /></button>
+    <div class="dropdown-content">
+      <!-- <img src="./imgs/avatar.png" style="padding:9px; cursor: pointer;" alt="" onclick="openChangePassword()"> -->
+      <div class ="dropdownedit">
+        <a href="#">1st Floor</a>
+        <div class="submenu">
+          <button class = "hover-link" id = "hidden-position-btn" style="color:white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px;width: 100%;text-align: left; border: none;">Location</button>
+          <button class = "hover-link" id = "hidden-camera-btn" style="color:white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px;width: 100%;text-align: left; border: none;">Camera</button>
+          <button class = "hover-link" id = "hidden-cabinet-btn" style="color:white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px;width: 100%;text-align: left; border: none;">Cabinet</button>
+        </div>
+      </div>
+      <a href="2index.html" class="hover-link" style="color: white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px">2nd Floor</a>
+      
+      <!-- <a href="./dailyRecord.html"><img src="./img/record.png" style="padding:9px; cursor: pointer;" alt=""></a> -->
+      <!-- <a href="1st Camera.html" class="hover-link" style="color: white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px">Camera</a> -->
+      <!-- <button class = "hover-link" style="color:white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px;width: 100%;text-align: left; border: none;" onclick="document.getElementById('id01').style.display ='block'">Edit Mode</button> -->
+      <div class ="dropdownedit">
+        <a href="#">Menu Edit</a>
+        <div class="submenu">
+          <button class = "hover-link" style="color:white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px;width: 100%;text-align: left; border: none;" onclick="openEditModal('location')">Edit Location</button>
+          <button class = "hover-link" style="color:white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px;width: 100%;text-align: left; border: none;" onclick="openEditModal('camera')">Edit Camera</button>
+          <button class = "hover-link" style="color:white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px;width: 100%;text-align: left; border: none;" onclick="openEditModal('cabinet')">Edit Cabinet</button>
+        </div>
+      </div>
+      <button class = "hover-link" style="color:white; cursor: pointer; font-family: Arial;font-weight: bold;font-size: large ;padding: 10px;width: 100%;text-align: left; border: none;" onclick="exitEditMode()">Exit Edit Mode</button> 
+    </div>
+  </div>
+  <div id ="id01" class = "modal">
+        <form class =" modal-content animate" id="loginForm">
+          <span onclick="document.getElementById('id01').style.display ='none'" class="none" title="Close Modal" id="X">&times;</span>
+          <div class="imgcontainer">
+            
+            <img src="https://www.w3schools.com/howto/img_avatar2.png" alt="Avatar" class="avatar">
+          </div>
+
+          <div class="container">
+            <label for="uname"><b>Username</b></label>
+            <input type="text" placeholder="Enter Username" name="uname" id="uname" required />
+
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" id="psw" required />
+            <label id="remember">
+              <input type="checkbox" checked="checked" name="remember"/> Remember me
+            </label> 
+
+            <button type = "submit" id="btnLogin">Login</button>
+          </div> 
+          
+        </form>
+      </div>
+  <meta charset="UTF-8" />
+  <title>LAYOUT FACTORY</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styleSvg.css" />
+  <span id="myTime"></span>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+</head>
+
+<body>
+  <span id = myTime></span>
+  <span class="LOGO">SYNOPEX</span>
+  <iframe src="./svgs/layout nha may - T1 - Test.svg" frameborder="0" id="left-wapper"></iframe>
+  <div class="titlebox">LAYOUT FACTORY GROUND FLOOR</div>
+  <div class="footer">
+      <div class="footer-container">
+        <div class="status-indicator">
+          <span class="status-label">System status: </span>
+          <div class="status-light" style="background-color: rgb(73, 254, 1);"></div>
+        </div>
+        <div class="scrolling-text" style="cursor: pointer" onclick="location.href='http://10.100.203.78/scada/alarmhistory/index.html';">
+          <span id="alarmText">No Warnings</span>
+        </div>
+      </div>
+  </div>
+  <!-- Modal nhập liệu tủ điện -->
+
+
+  
+</div>
+
+
+  <script>
+    setInterval(() => {
+      timer();
+    }, 1000);
+
+    const timer = () => {
+      var date = new Date();
+      var month = date.getMonth() + 1;
+      var year = date.getFullYear();
+      var day = date.getDate();
+      var h = date.getHours();
+      var m = date.getMinutes();
+      var s = date.getSeconds();
+      if (h < 10) h = "0" + h;
+      if (m < 10) m = "0" + m;
+      if (s < 10) s = "0" + s;
+      if (day < 10) day = "0" + day;
+      if (month < 10) month = "0" + month;
+      document.getElementById("myTime").innerHTML =
+        h + ":" + m + ":" + s + "      " + day + "/" + month + "/" + year;
+    };
+  </script>
+  <script type="module" src="./src/main.js"></script>
+</body>
+
+</html>
